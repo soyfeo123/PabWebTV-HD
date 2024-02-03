@@ -3,7 +3,7 @@
 
 <sub>Previously known as "WebTV-CSS-Remake".</sub>
 
-A project that aims to recreate WebTV's UI, page design, and some functionality, using modern web technologies (mainly HTML and CSS).
+A project that is a fork of ![WebTV-HD](https://skcro.github.io/WebTV-HD/)
 
 ## How do I try it out?
 ### Head on over to the **[GitHub Pages instance](https://SKCro.github.io/WebTV-HD/)** if you'd like to try it out.
